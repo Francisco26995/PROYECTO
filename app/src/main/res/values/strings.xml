@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PROYECTO</string>
+    <string name="hmatricula">INGRESA TU MATRICULA</string>
+    <string name="hnombre">INGRESA TU NOMBRE</string>
+    <string name="hcorreo">INGRESA TU CORREO</string>
+    <string name="hpromedio">INGRESA TU PROMEDIO</string>
+    <string name="bgrabar">GRABAR INFORMACION</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dmatricula">Matricula</string>
+    <string name="dcorreo">Correo</string>
+    <string name="dpromedio">Promedio Final</string>
+    <string name="imgusuario">Usuario</string>
+    <string name="imgDatos">Datos</string>
+</resources>
